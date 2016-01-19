@@ -1,0 +1,13 @@
+{
+  "name": "angular-material-scratchpad",
+  "version": "0.1.0",
+  "description": "Simple project skeleton using angular-material.",
+  "scripts": {
+    "start": "node node_modules/http-server/bin/http-server ./src"
+  },
+  "author": "John V McCarthy (jvmnpm@gmail.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.8.5"
+  }
+}
